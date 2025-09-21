@@ -7,9 +7,7 @@ This repository is created to practice and demonstrate **data cleaning technique
 - More datasets will be added gradually for broader practice and coverage.  
 
 ## Tools & Libraries  
-- Python  
-- Pandas  
-- Jupyter Notebook  
+- Python, Pandas, Jupyter Notebook  
 
 ## Objectives  
 - Handle missing values  
@@ -19,9 +17,9 @@ This repository is created to practice and demonstrate **data cleaning technique
 - Explore real-world datasets  
 
 ## Contribution  
-Feel free to explore the repo, suggest improvements, or contribute with your own datasets and cleaning approaches.  
+You can explore the repo, suggest improvements, or contribute with your own datasets and cleaning approaches.  
 
-📧 If you face any difficulty in accessing the data, reach out at:  
+If you face any difficulty in accessing the data, reach out at:  
 **simrankumaribodhgaya93@gmail.com**  
 
  From **20th September**, this repo will be updated regularly with:  
