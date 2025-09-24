@@ -14,7 +14,16 @@ This repository is created to practice and demonstrate **data cleaning technique
 - Remove duplicates  
 - Fix inconsistent formatting  
 - Transform and standardize data  
-- Explore real-world datasets  
+- Explore real-world datasets
+- Dealing with duplicates
+- Parsing and cleaning dates
+- String operations and text cleaning
+- Outlier detection and treatment
+- Encoding categorical variables
+- Data type conversions
+- Data aggregation and transformation
+- Merging and joining datasets
+- Creating reusable cleaning functions
 
 ## Contribution  
 You can explore the repo, suggest improvements, or contribute with your own datasets and cleaning approaches.  
