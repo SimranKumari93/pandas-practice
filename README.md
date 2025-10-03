@@ -40,6 +40,7 @@ If you face any difficulty in accessing the data, reach out at:
   3. Mental Wellness
   4. Medical Appointment
   5. IPL
+  6. Stocks Crypto
 
 ---
  **Happy Learning & Keep Practicing Data Cleaning with Pandas!** 🚀  
