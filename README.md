@@ -34,7 +34,8 @@ If you face any difficulty in accessing the data, reach out at:
  From **20th September**, this repo will be updated regularly with:  
 - Step-by-step data cleaning examples  
 - Multiple datasets and techniques  
-- Explanations for better understanding  
+- Explanations for better understanding
+- 1. Netflix
 
 ---
  **Happy Learning & Keep Practicing Data Cleaning with Pandas!** 🚀  
