@@ -1,3 +1,5 @@
 venv/
 # survey_results_public.csv
 # survey_results_public.csv/
+git-filter-repo
+.gitmodules
