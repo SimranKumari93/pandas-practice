@@ -35,13 +35,7 @@ If you face any difficulty in accessing the data, reach out at:
 - Step-by-step data cleaning examples  
 - Multiple datasets and techniques  
 - Explanations for better understanding
-- 1. Netflix
-  2. NYC
-  3. Mental Wellness
-  4. Medical Appointment
-  5. IPL
-  6. Stocks Crypto
-  7. 
 
+I have uploaded alomost 15+ datasets for practice each one has some new challenges hope it will help you
 ---
  **Happy Learning & Keep Practicing Data Cleaning with Pandas!** 🚀  
